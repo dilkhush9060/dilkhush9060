@@ -25,9 +25,9 @@
 </p>
 
   <p align="center">
-  <a href="#"><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit9060&hide_border=true&theme=dark"></a></p>
+  <a href="#"><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=dilkhush9060&hide_border=true&theme=dark"></a></p>
 
-[![Rohit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rohit9060&bg_color=000000&color=67ff3d&line=8ae41b&point=fffafa&area=true&hide_border=true)]
+[![Rohit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dilkhush9060&bg_color=000000&color=67ff3d&line=8ae41b&point=fffafa&area=true&hide_border=true)]
 
 </p>
 
